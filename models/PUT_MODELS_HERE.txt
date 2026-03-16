@@ -1,6 +1,0 @@
-Put your .glb files here and rename them:
-
-model1.glb
-model2.glb
-...
-model10.glb
